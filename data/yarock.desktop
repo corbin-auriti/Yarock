@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=yarock
+Comment=Play your music collection
+GenericName=Music Player
+Exec=yarock
+Terminal=false
+Type=Application
+Icon=application-x-yarock
+Categories=Qt;Audio;Music;Player;AudioVideo;
+StartupNotify=true
